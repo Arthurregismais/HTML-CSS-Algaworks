@@ -1,0 +1,31 @@
+.destaque {
+    color: #ff0000;
+}
+
+article .missao > strong {
+    color: #008000;
+}
+
+h1#titulo, p.missao {
+    color: #0000ff;
+    font-family: Arial;
+}
+
+.nome {
+    color: #ff0000;
+    font: italic bold 34px "Trebuchet MS", sans-serif;
+    text-decoration: underline;
+    text-align: center;
+}
+
+.segmento {
+    font-family: Palatino, serif;
+    border: 5px #8a2be2 solid;
+    display: inline;
+    font-size: 25px;
+    border-radius: 7px;
+}
+
+p {
+    padding: 15px;
+}
